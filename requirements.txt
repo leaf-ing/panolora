@@ -1,0 +1,13 @@
+accelerate==0.23.0
+diffusers==0.18.2
+ffmpy==0.3.1
+numpy==2.2.1
+opencv_python==4.8.0.74
+Pillow==11.1.0
+pytorch_lightning==1.9.0
+tensorboardX==2.6.2.2
+torch==2.0.1+cu118
+torchvision==0.15.2+cu118
+tqdm==4.65.2
+transformers==4.31.0
+xformers==0.0.21
